@@ -1,0 +1,9 @@
+D:\sts-tool\news1\src\main\java\com\searchquest\news\NewsApplication.java
+D:\sts-tool\news1\src\main\java\com\searchquest\news\controller\NewsController.java
+D:\sts-tool\news1\src\main\java\com\searchquest\news\model\NewsInfoForREST.java
+D:\sts-tool\news1\src\main\java\com\searchquest\news\respository\NewsRepository.java
+D:\sts-tool\news1\src\main\java\com\searchquest\news\model\NewsInfoHeadingContent.java
+D:\sts-tool\news1\src\main\java\com\searchquest\news\model\NewsInfo.java
+D:\sts-tool\news1\src\main\java\com\searchquest\news\service\NewsService.java
+D:\sts-tool\news1\src\main\java\com\searchquest\news\serviceImpl\NewsServiceImpl.java
+D:\sts-tool\news1\src\main\java\com\searchquest\news\model\NewsInfoHeadingPriority.java

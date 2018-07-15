@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: news1.NewsTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.35 s <<< FAILURE! - in news1.NewsTest
+testAdd(news1.NewsTest)  Time elapsed: 0.05 s  <<< ERROR!
+java.lang.NullPointerException
+	at news1.NewsTest.testAdd(NewsTest.java:28)
+
