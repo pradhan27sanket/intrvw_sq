@@ -5,4 +5,4 @@ Build Ide : STS
 Java version : 1.8.0_91
 
 
-Jacoco screenshot : codecoverage.png
+Jacoco screenshot : https://github.com/pradhan27sanket/intrvw_sq/blob/master/codecoverage.png
